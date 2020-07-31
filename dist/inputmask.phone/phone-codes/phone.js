@@ -1,7 +1,7 @@
 /*!
 * phone-codes/phone.js
 * https://github.com/RobinHerbots/inputmask.phone#readme
-* Copyright (c) 2010 - 2019 
+* Copyright (c) 2010 - 2019
 * Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
 * Version: 1.0.5-beta.1
 */
@@ -131,6 +131,14 @@
                 name_ru: "Американское Самоа",
                 desc_ru: ""
             }, {
+                mask: '+43(###)###-###',
+                cc: 'AT',
+                cd: 'Austria',
+                desc_en: '',
+                name_ru: 'Австрия',
+                desc_ru: '',
+            },
+                {
                 mask: "+43(###)###-####",
                 cc: "AT",
                 cd: "Austria",
