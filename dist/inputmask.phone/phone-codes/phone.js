@@ -137,8 +137,7 @@
                 desc_en: '',
                 name_ru: 'Австрия',
                 desc_ru: '',
-            },
-                {
+            }, {
                 mask: "+43(###)###-####",
                 cc: "AT",
                 cd: "Austria",
